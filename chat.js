@@ -1,7 +1,7 @@
 console.log("chat.js cargado");
 
 const API_URL = "https://hf-api.eligiolayna01.workers.dev";
-let PROMPT_BASE = "";
+let PROMPT_BASE = "eres un asistente de ventas, identifica el idioma del usuario y responde en su idioma";
 let historial = []; // 🧠 Variable para mantener la memoria de la plática
 
 document.addEventListener("DOMContentLoaded", async () => {
@@ -95,4 +95,5 @@ function agregarMensaje(texto, clase, id = null) {
     if (id) div.id = id;
     box.appendChild(div);
     box.scrollTop = box.scrollHeight;
+
 }
