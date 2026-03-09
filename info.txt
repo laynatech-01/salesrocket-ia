@@ -39,7 +39,7 @@ SKU ALTRA40-3234 (4 HP Tri): Trifásica 230/460V. Flujo 400 LPM. Precio: $11,500
 CATALOGO 2. TABLEROS DE CONTROL [
 SKU TAB-1 (20 HP): Trifásica 230/460V. Amperaje 7.3/3.7A. Precio: $37,800 MXN.
 SKU TAB-2 (30 HP): Trifásica 230/460V. Amperaje 7.3/3.7A. Precio: $47,800 MXN.
-SKU TAB-2 (40 HP): Trifásica 230/460V. Amperaje 7.3/3.7A. Precio: $57,800 MXN.
+SKU TAB-3 (40 HP): Trifásica 230/460V. Amperaje 7.3/3.7A. Precio: $57,800 MXN.
 ]
 
 PROTOCOLOS DE RECEPCIÓN Y VENTAS [
@@ -52,4 +52,5 @@ DIRECTORIO DE VENTAS [
 - Baja California Sur: ventasbcs@globalcontrol.mx
 - Ciudad de México: ventascdmx@globalcontrol.mx
 - Proyectos Especiales: ingenieriayproyectos@globalcontrol.mx
+
 ]
